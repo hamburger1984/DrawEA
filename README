@@ -1,0 +1,10 @@
+(c) 2006-2008 Andreas Krohn (Hamburger1984 at gmail.com)
+
+
+a little tool to draw finite-state machines written in C# (also builds and runs using mono - display glitches included)
+
+currently supports deterministic and nondeterministic finite-state machines
+
+a stupid bruteforce input processing/matching is included
+
+feel free to use and/or extend this..
